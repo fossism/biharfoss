@@ -20,13 +20,15 @@ export default function Programs() {
           </p>
         </div>
         <div className="about-card">
-          <img alt="GSoC" src="" />
-          <h3>GSoC</h3>
+          <img
+            height="55px"
+            alt="GSoC"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Google_Summer_of_Code_sun_logo_2022.svg/500px-Google_Summer_of_Code_sun_logo_2022.svg.png"
+          />
+          <h3>Google Summer of Code</h3>
           <p>
             Google Summer of Code is a global, online program focused on
             bringing new contributors into open source software development.
-            GSoC Contributors work with an open source organization on a 12+
-            week programming project under the guidance of mentors.
           </p>
         </div>
       </div>
