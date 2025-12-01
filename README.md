@@ -1,4 +1,8 @@
-# React + Vite
+# biharfoss website
+A complete open source tech solutions for the students and professionals of Bihar.
+## Tech Stack
+
+### React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
